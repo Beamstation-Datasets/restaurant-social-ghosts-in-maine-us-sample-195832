@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Maine, US",
+  "export_job_id": "7fa65775-1bfd-4bc2-b711-412e63d664c9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 195832,
+  "location_name": "Maine",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-maine-us-sample-195832",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/195832/beamstation_195832_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_pct": 8.7,
+  "sample_records": 4,
+  "sample_sha256": "8a4117c8b1fecf2415279cac74a3d5f3bf655358843c7c0f8e6118e4b070a0cf",
+  "sample_size_bytes": 29062,
+  "total_records": 46,
+  "updated_at": "2026-04-08T07:07:36.240788+00:00"
+}
