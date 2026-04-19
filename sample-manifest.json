@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7fa65775-1bfd-4bc2-b711-412e63d664c9",
+  "export_job_id": "b7e9410c-a511-4345-9888-24a69015fd84",
   "id_short": 195832,
-  "published_at": "2026-04-11T19:04:30Z",
+  "published_at": "2026-04-19T07:23:09Z",
   "repo_name": "restaurant-social-ghosts-in-maine-us-sample-195832",
   "sample_asset_name": "beamstation_195832_restaurants-us-me_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/195832/beamstation_195832_restaurants-us-me_SAMPLE_DIST.csv",
   "sample_records": 4,
-  "sample_sha256": "8a4117c8b1fecf2415279cac74a3d5f3bf655358843c7c0f8e6118e4b070a0cf",
-  "sample_size_bytes": 29062,
-  "total_records": 46
+  "sample_sha256": "bb74c22c7710a2fb9e6b1d9c9435e516259ab69a6e90fa7a1de326712d6f846c",
+  "sample_size_bytes": 28888,
+  "total_records": 40
 }
