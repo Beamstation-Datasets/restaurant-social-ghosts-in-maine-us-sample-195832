@@ -9,9 +9,9 @@
 | Dataset ID | `195832` |
 | Location | Maine |
 | Category | Restaurants |
-| Full dataset size | 46 records |
-| Free sample size | 4 records (8.7%) |
-| Last export | 2026-04-08T07:07:36.240788+00:00 |
+| Full dataset size | 40 records |
+| Free sample size | 4 records (10.0%) |
+| Last export | 2026-04-15T10:37:49.896776+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-maine-us-sample-195832/releases/download/sample-latest/beamstation_195832_restaurants-us-me_SAMPLE_DIST.csv) |
 
 ## What is in this sample
